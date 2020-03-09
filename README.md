@@ -1,5 +1,5 @@
 # Class-03092020
 
-Name:
+Name: Sam Huang
 
-Student ID:
+Student ID: 105020014
